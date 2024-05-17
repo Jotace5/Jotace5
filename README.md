@@ -12,7 +12,8 @@ const jotace5 = {
         technical: [
           "Machine Learning",
           "Deep Learning",
-          "Natural Language Processing (NLP)"
+          "Natural Language Processing (NLP)",
+          "Google Cloud Services"
         ],
         programming: [
           "Python",
@@ -24,7 +25,7 @@ const jotace5 = {
     },
     pastExperience: {
       industry: "Construction",
-      role: "Project Manager",
+      role: "Architect",
       yearsOfExperience: 10
     }
   }
