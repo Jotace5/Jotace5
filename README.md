@@ -19,9 +19,7 @@ const jotace5 = {
           "TensorFlow",
           "Keras",
           "PyTorch"
-        ],
-        dataAnalysis: "Strong analytical skills for data preprocessing, feature engineering, and model evaluation.",
-        problemSolving: "Capable of identifying and solving complex AI-related challenges and optimizing existing solutions."
+        ]
       }
     },
     pastExperience: {
