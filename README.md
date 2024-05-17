@@ -45,7 +45,7 @@ const jotace5 = {
 
 - 🎓 &nbsp; <samp> Currently studying at the MIT Bootcamp for Deep Learning, aspiring to become an AI engineer.</samp>
 
-🎓   <samp> Recently finished Coursera Machine Learning in Production, learning to design end-to-end ML systems, from project scoping to deployment.</samp>
+- 🎓 &nbsp; <samp> Recently finished Coursera Machine Learning in Production, learning to design end-to-end ML systems, from project scoping to deployment.</samp>
 
 - 🌱 &nbsp; <samp> Continuously learning new technologies to enhance my AI skills.</samp>
 
