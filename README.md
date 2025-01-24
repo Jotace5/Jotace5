@@ -10,15 +10,12 @@ const jotace5 = {
       profession: "Aspiring AI Engineer",
       skills: {
         technical: [
+          "Software Engieering",
           "Machine Learning",
-          "Deep Learning",
-          "Natural Language Processing (NLP)",
           "Google Cloud Services"
         ],
         programming: [
           "Python",
-          "TensorFlow",
-          "Keras",
           "PyTorch"
         ]
       }
