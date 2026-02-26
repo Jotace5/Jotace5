@@ -2,7 +2,6 @@
 
 ```js
 const jotace5 = {
-  pronouns: "he" | "him",
   name: "Juan Manuel Castaño",
   role: "Software Engineer",
   location: "Buenos Aires, Argentina",
@@ -67,3 +66,4 @@ const jotace5 = {
   <a href="https://github.com/Jotace5"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github"></a>
   <a href="mailto:juancastanop@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
+
