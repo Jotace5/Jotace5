@@ -6,8 +6,6 @@ Former architect who traded blueprints for codebases. I build web applications a
 
 I spent a decade as an architect designing construction projects before switching to software engineering. That background gave me a different way of thinking about systems — spatial reasoning, managing complexity, translating requirements into deliverables.
 
-I contributed to **EchoVox**, a voice AI platform handling ~3,000 daily conversations at scale. Worked across the full stack: implemented OAuth 2.0 + WhatsApp Business API integration, built UI features with React/TypeScript, designed database schemas, and optimized agent behavior through prompt engineering.
-
 ---
 
 ## Projects
